@@ -1,7 +1,6 @@
 module.exports = {
   "title": "ykl的博客",
   "description": "前端小记",
-  "dest": "public",
   "base": '/',
   "head": [
     [
